@@ -1,9 +1,9 @@
-import java.awt.Graphics;
+//test comment
 //new comment
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-
+ import java.awt.Graphics;
 public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 
